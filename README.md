@@ -5,7 +5,7 @@ My project detects road signs and tells what to to do when detecting them. It ca
 
 ## The Algorithm
 
-
+My model uses imagenet with trained model that uses dataset. I changed imagenet to only show message related to road signs and give basic instruction what to do. 
 
 ## Running this project
 
